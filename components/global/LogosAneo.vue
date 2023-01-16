@@ -1,6 +1,4 @@
 <script lang="ts" setup>
-import { useMaskId } from '#imports'
-
 const maskId = useMaskId()
 </script>
 
