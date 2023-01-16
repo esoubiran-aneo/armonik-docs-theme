@@ -1,5 +1,5 @@
 {
-  "name": "docus-starter",
+  "name": "@esoubiran-aneo/armonik-docs-theme",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,13 @@
     "preview": "nuxi preview"
   },
   "main": "nuxt.config.ts",
+  "files": [
+    "components/",
+    "composables/",
+    "app.config.ts",
+    "nuxt.config.ts",
+    "tokens.config.ts"
+  ],
   "devDependencies": {
     "@nuxt-themes/docus": "^1.1.5",
     "@vue/server-renderer": "^3.2.45",
