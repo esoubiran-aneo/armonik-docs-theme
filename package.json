@@ -1,7 +1,6 @@
 {
   "name": "@esoubiran-aneo/armonik-docs-theme",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
@@ -18,7 +17,6 @@
   ],
   "devDependencies": {
     "@nuxt-themes/docus": "^1.1.5",
-    "@vue/server-renderer": "^3.2.45",
     "nuxt": "^3.0.0"
   }
 }
